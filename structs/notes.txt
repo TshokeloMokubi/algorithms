@@ -1,0 +1,5 @@
+the theory onlinked lists is amazing ,
+first we make a thenode. this node class holds the data and the pointer to the next node.
+by the way this pointer is simply a new node (honestly it is)
+the good part is that it is located at a different memory location from the current node.
+all these nodes are just instances. and instances are scattered all over the memory location.
